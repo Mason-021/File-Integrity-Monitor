@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# FIM generated baseline
+baseline.json
+
+# Local testing directory
+test_dir/
+
+# Logs
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
